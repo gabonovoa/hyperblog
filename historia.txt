@@ -3,3 +3,7 @@ de la historia de una persona en Git cuarta b parte
 Nueva versión o sexta
 Esta es una linea de mi esta es de la rama ahora
 Esto es una nueva linea de la rama que no existe en otro
+
+
+
+Ahora si la del footer
